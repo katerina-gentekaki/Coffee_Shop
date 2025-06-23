@@ -44,5 +44,5 @@ How many Lattes would you like, Alice? 2
 
 ## 📁 File Structure
 python-coffee-shop/
-├── coffee_shop.py # Main program
-├── README.md # Project documentation
+├── coffee_shop.py       # Main program
+├── README.md            # Project documentation
